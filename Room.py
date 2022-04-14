@@ -8,8 +8,8 @@ class Room:
         temp = 10
         self.__name = name
         self.__width = width
-        self.__length = length
-        self.__height = height
+        self.__length = boss
+        self.__height = leader
         self.__chairs = chairs
         Room.numberOfRooms += 1
         
@@ -39,6 +39,6 @@ class Room:
     def setheight (self, height)
     
     
-    #I have made some changes just for learning. 
+    #if u can't run, walk. 
     #let's see how it goes. Lol.
 #Doing a little update here on github to try and resolve a merge conflict. Let's see how it goes
