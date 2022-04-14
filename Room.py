@@ -8,8 +8,8 @@ class Room:
         temp = 10
         self.__name = name
         self.__width = width
-        self.__length = length
-        self.__height = height
+        self.__length = we
+        self.__height = us
         self.__chairs = chairs
         Room.numberOfRooms += 1
         
