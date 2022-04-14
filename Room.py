@@ -39,7 +39,7 @@ class Room:
     def setheight (self, height)
     
     
-    #I have made some changes just for learning. 
+    #No man is an Island. Watchout. 
     #let's see how it goes. Lol.
     
     
