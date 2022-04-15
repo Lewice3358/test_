@@ -8,8 +8,13 @@ class Room:
         temp = 10
         self.__name = name
         self.__width = width
+<<<<<<< HEAD
         self.__length = we
         self.__height = us
+=======
+        self.__length = boss
+        self.__height = leader
+>>>>>>> refs/remotes/origin/master
         self.__chairs = chairs
         Room.numberOfRooms += 1
         
@@ -39,8 +44,14 @@ class Room:
     def setheight (self, height)
     
     
+<<<<<<< HEAD
     #No man is an Island. Watchout. 
     #let's see how it goes. Lol.
     
     
     #I'm updating my local repository to see how merge conflict works. @@@22222@
+=======
+    #if u can't run, walk. 
+    #let's see how it goes. Lol.
+#Doing a little update here on github to try and resolve a merge conflict. Let's see how it goes
+>>>>>>> refs/remotes/origin/master
